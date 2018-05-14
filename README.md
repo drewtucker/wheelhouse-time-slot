@@ -1,5 +1,5 @@
-## Time-Slot Widget
+# Time-Slot Widget
 
-# By Drew Tucker
+## By Drew Tucker
 
-![image of widget] (./time-slot-widget.jpg)
+![image of widget] (https://github.com/drewtucker/wheelhouse-time-slot/blob/master/time-slot-widget.jpg)
