@@ -2,4 +2,4 @@
 
 ## By Drew Tucker
 
-![image of widget] (https://github.com/drewtucker/wheelhouse-time-slot/blob/master/time-slot-widget.jpg)
+![image of widget] (https://raw.githubusercontent.com/drewtucker/wheelhouse-time-slot/blob/master/time-slot-widget.jpg)
